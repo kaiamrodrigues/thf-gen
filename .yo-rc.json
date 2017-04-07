@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "thf team",
+      "authorEmail": "kaiam.rodrigues@totvs.com.br",
+      "authorUrl": ""
+    }
+  }
+}
